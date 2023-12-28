@@ -1,0 +1,20 @@
+*,
+::before,
+::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+$couleur-bg: #17193b;
+$couleur-middleBlue: #46758e;
+$couleur-darkBlue: #0a2737;
+$couleur-darkRed: #740924;
+$couleur-middleRed: #6c2537;
+$couleur-pastel: #f53b6b;
+$couleur-purple: #4e165f;
+$couleur-darkPurple: #2e1735;
+
+$font-link: 'Lato';
+$font-subTitle: 'Merriweather';
+$font-txt: 'Nunito';
+$font-title: 'Poppins';
